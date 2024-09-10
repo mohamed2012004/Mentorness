@@ -51,17 +51,3 @@
 
    Each part delivers valuable insights to support business decisions and improve overall performance in the competitive domain of hotel aggregator listings.
 
-## Images
-
-### Hotel Price Analysis
-![Hotel Price Analysis](images/Hotel_Price_Analysis.jpg)
-
-### Host Analysis
-![Host Analysis](images/Host_Analysis.jpg)
-
-### Reviews Analysis
-![Reviews Analysis](images/Reviews_Analysis.jpg)
-
-### Room Analysis
-![Room Analysis](images/Rooms_Analysis.jpg)
-
